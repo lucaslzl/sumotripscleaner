@@ -25,13 +25,13 @@ class Cleaner:
 		self.path = 'duaroutertrips/'
 
 		# Output trips quantity
-		self.quantity = 1000
+		self.quantity = 2300
 
 		# Quantity of distinct files
 		self.file_quantity = 20
 
 		# Depart interval
-		self.depart_interval = 50
+		self.depart_interval = 1
 
 		# Prename of the file
 		self.pre_name = 'chicago'
