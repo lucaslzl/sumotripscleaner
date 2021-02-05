@@ -7,6 +7,8 @@
 
 :earth_americas: The goal is to propose a strategy to generate and randomize [SUMO](https://www.eclipse.org/sumo/) routes.
 
+To execute the cleaner use the next command.
+
 ```bash
 python cleaner.py
 ```
